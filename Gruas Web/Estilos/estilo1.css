@@ -1,0 +1,22 @@
+table,th, td {
+    border: 1px ;
+    border-radius: 10px;
+    
+  }
+#Hola{
+    text-align: center;
+}
+#comentario{
+  text-shadow: white;
+}
+.tabla{
+  width:70%;
+  
+}
+
+footer{
+  margin-top: 50px;
+  width: 100%;
+  height: 200%;
+
+}
